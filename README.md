@@ -55,7 +55,7 @@ SIMPLE_TODO_LIST is a minimalist to-do list application built with React and Tai
 
 ### Prerequisites
 
-- **Node**: `version 16.x` or higher (recommended)
+- **Node**: `version 16.5` or higher (recommended)
 - **npm**: Comes with Node.js
 
 ### Installation
