@@ -6,7 +6,7 @@
     <em><code>❯ A simple To-Do List application built with React and Tailwind CSS.</code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/YourGitHubUsername/Simple_Todo_List?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/license/NarashKumar/ToDoList?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/YourGitHubUsername/Simple_Todo_List?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/YourGitHubUsername/Simple_Todo_List?style=flat&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/YourGitHubUsername/Simple_Todo_List?style=flat&color=0080ff" alt="repo-language-count">
