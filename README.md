@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
     <h1 align="center">SIMPLE_TODO_LIST</h1>
 </p>
